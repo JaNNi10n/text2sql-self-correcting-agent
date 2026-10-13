@@ -1,0 +1,234 @@
+C:\Users\dlprw\AppData\Roaming\Python\Python312\site-packages\transformers\models\bert\modeling_bert.py:440: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+[A3] 1/200 id=1 easy   OK  att=1 838ms
+[A3] 2/200 id=22 medium OK  att=1 1602ms
+[A3] 3/200 id=24 extra  OK  att=1 2252ms
+[A3] 4/200 id=26 hard   OK  att=1 1196ms
+[A3] 5/200 id=39 medium BAD att=3 4667ms
+[A3] 6/200 id=40 medium BAD att=3 6116ms
+[A3] 7/200 id=44 hard   OK  att=1 1595ms
+[A3] 8/200 id=51 medium OK  att=3 7673ms
+[A3] 9/200 id=55 easy   BAD att=3 2851ms
+[A3] 10/200 id=56 easy   OK  att=1 815ms
+[A3] 11/200 id=57 extra  OK  att=1 1726ms
+[A3] 12/200 id=64 hard   BAD att=3 2282ms
+[A3] 13/200 id=70 medium OK  att=1 453ms
+[A3] 14/200 id=72 medium BAD att=3 2493ms
+[A3] 15/200 id=73 medium OK  att=1 400ms
+[A3] 16/200 id=77 medium OK  att=1 833ms
+[A3] 17/200 id=87 easy   OK  att=1 512ms
+[A3] 18/200 id=90 medium BAD att=3 1978ms
+[A3] 19/200 id=94 medium BAD att=1 638ms
+[A3] 20/200 id=97 extra  BAD att=3 2403ms
+[A3] 21/200 id=100 extra  BAD att=3 2513ms
+[A3] 22/200 id=105 hard   BAD att=2 1716ms
+[A3] 23/200 id=107 extra  BAD att=3 2061ms
+[A3] 24/200 id=108 extra  OK  att=1 818ms
+[A3] 25/200 id=110 medium BAD att=1 1050ms
+[A3] 26/200 id=111 medium BAD att=3 2327ms
+[A3] 27/200 id=128 medium OK  att=1 712ms
+[A3] 28/200 id=134 hard   BAD att=3 2416ms
+[A3] 29/200 id=141 hard   OK  att=1 511ms
+[A3] 30/200 id=152 extra  BAD att=3 2834ms
+[A3] 31/200 id=153 easy   BAD att=1 788ms
+[A3] 32/200 id=154 easy   OK  att=1 859ms
+[A3] 33/200 id=156 medium BAD att=3 2812ms
+[A3] 34/200 id=157 extra  BAD att=3 2916ms
+[A3] 35/200 id=178 extra  BAD att=3 5150ms
+[A3] 36/200 id=179 easy   BAD att=3 2725ms
+[A3] 37/200 id=181 easy   OK  att=1 492ms
+[A3] 38/200 id=192 easy   OK  att=1 397ms
+[A3] 39/200 id=196 easy   OK  att=1 462ms
+[A3] 40/200 id=198 medium OK  att=3 1531ms
+[A3] 41/200 id=199 easy   OK  att=1 488ms
+[A3] 42/200 id=210 medium OK  att=1 438ms
+[A3] 43/200 id=211 hard   BAD att=3 1298ms
+[A3] 44/200 id=221 extra  OK  att=3 2359ms
+[A3] 45/200 id=222 extra  BAD att=3 2658ms
+[A3] 46/200 id=226 extra  OK  att=3 2343ms
+[A3] 47/200 id=231 extra  OK  att=1 666ms
+[A3] 48/200 id=241 medium BAD att=1 1346ms
+[A3] 49/200 id=249 easy   OK  att=3 1340ms
+[A3] 50/200 id=254 medium OK  att=3 1158ms
+[A3] 51/200 id=255 hard   OK  att=1 504ms
+[A3] 52/200 id=256 hard   OK  att=1 698ms
+[A3] 53/200 id=262 easy   OK  att=1 1328ms
+[A3] 54/200 id=263 medium BAD att=1 386ms
+[A3] 55/200 id=267 medium BAD att=3 2172ms
+[A3] 56/200 id=271 medium OK  att=1 405ms
+[A3] 57/200 id=272 medium OK  att=1 466ms
+[A3] 58/200 id=274 medium OK  att=1 385ms
+[A3] 59/200 id=289 easy   OK  att=1 351ms
+[A3] 60/200 id=290 easy   OK  att=1 323ms
+[A3] 61/200 id=292 easy   OK  att=1 411ms
+[A3] 62/200 id=297 easy   OK  att=1 685ms
+[A3] 63/200 id=302 medium OK  att=1 495ms
+[A3] 64/200 id=312 extra  BAD att=1 1017ms
+[A3] 65/200 id=321 easy   OK  att=1 362ms
+[A3] 66/200 id=322 easy   OK  att=1 480ms
+[A3] 67/200 id=324 medium OK  att=1 698ms
+[A3] 68/200 id=327 medium OK  att=1 735ms
+[A3] 69/200 id=328 medium OK  att=1 549ms
+[A3] 70/200 id=329 medium OK  att=1 461ms
+[A3] 71/200 id=332 hard   OK  att=1 503ms
+[A3] 72/200 id=337 medium OK  att=1 779ms
+[A3] 73/200 id=347 medium OK  att=1 437ms
+[A3] 74/200 id=353 medium BAD att=3 2305ms
+[A3] 75/200 id=366 medium OK  att=1 608ms
+[A3] 76/200 id=382 easy   OK  att=1 504ms
+[A3] 77/200 id=385 medium OK  att=1 326ms
+[A3] 78/200 id=393 medium OK  att=1 594ms
+[A3] 79/200 id=395 hard   BAD att=1 1017ms
+[A3] 80/200 id=396 hard   OK  att=1 637ms
+[A3] 81/200 id=403 hard   BAD att=3 2103ms
+[A3] 82/200 id=404 hard   BAD att=3 2302ms
+[A3] 83/200 id=405 medium OK  att=1 800ms
+[A3] 84/200 id=414 medium BAD att=1 1353ms
+[A3] 85/200 id=417 medium BAD att=1 720ms
+[A3] 86/200 id=421 extra  OK  att=3 1923ms
+[A3] 87/200 id=424 medium OK  att=1 502ms
+[A3] 88/200 id=425 medium OK  att=1 875ms
+[A3] 89/200 id=434 medium OK  att=1 2067ms
+[A3] 90/200 id=443 easy   OK  att=1 436ms
+[A3] 91/200 id=444 easy   OK  att=1 470ms
+[A3] 92/200 id=450 medium OK  att=1 628ms
+[A3] 93/200 id=453 medium BAD att=1 625ms
+[A3] 94/200 id=469 medium BAD att=3 2659ms
+[A3] 95/200 id=472 medium BAD att=3 5451ms
+[A3] 96/200 id=488 hard   OK  att=1 1808ms
+[A3] 97/200 id=495 easy   BAD att=1 496ms
+[A3] 98/200 id=505 extra  OK  att=1 718ms
+[A3] 99/200 id=515 extra  OK  att=1 1150ms
+[A3] 100/200 id=525 medium OK  att=1 868ms
+[A3] 101/200 id=529 extra  BAD att=1 1565ms
+[A3] 102/200 id=531 medium OK  att=1 816ms
+[A3] 103/200 id=532 medium BAD att=3 2847ms
+[A3] 104/200 id=533 medium BAD att=3 6614ms
+[A3] 105/200 id=539 extra  BAD att=3 3590ms
+[A3] 106/200 id=544 hard   OK  att=1 1455ms
+[A3] 107/200 id=546 easy   BAD att=3 3245ms
+[A3] 108/200 id=573 extra  BAD att=3 3460ms
+[A3] 109/200 id=576 extra  OK  att=2 3997ms
+[A3] 110/200 id=580 easy   OK  att=1 1420ms
+[A3] 111/200 id=586 easy   OK  att=1 1355ms
+[A3] 112/200 id=595 hard   OK  att=1 644ms
+[A3] 113/200 id=596 hard   OK  att=1 637ms
+[A3] 114/200 id=598 medium OK  att=1 563ms
+[A3] 115/200 id=601 easy   OK  att=1 649ms
+[A3] 116/200 id=602 easy   OK  att=1 664ms
+[A3] 117/200 id=613 easy   BAD att=1 548ms
+[A3] 118/200 id=630 medium BAD att=3 1705ms
+[A3] 119/200 id=631 medium OK  att=1 601ms
+[A3] 120/200 id=636 hard   BAD att=1 865ms
+[A3] 121/200 id=648 easy   OK  att=1 747ms
+[A3] 122/200 id=653 easy   OK  att=1 424ms
+[A3] 123/200 id=655 medium OK  att=1 516ms
+[A3] 124/200 id=662 medium OK  att=2 1220ms
+[A3] 125/200 id=666 hard   OK  att=2 1343ms
+[A3] 126/200 id=667 hard   OK  att=2 1244ms
+[A3] 127/200 id=671 medium OK  att=2 1114ms
+[A3] 128/200 id=678 easy   OK  att=1 621ms
+[A3] 129/200 id=680 medium OK  att=1 629ms
+[A3] 130/200 id=687 easy   BAD att=1 1694ms
+[A3] 131/200 id=691 easy   OK  att=1 458ms
+[A3] 132/200 id=704 easy   OK  att=1 1412ms
+[A3] 133/200 id=709 easy   OK  att=1 577ms
+[A3] 134/200 id=717 medium BAD att=3 2463ms
+[A3] 135/200 id=718 easy   OK  att=1 519ms
+[A3] 136/200 id=723 medium BAD att=3 5060ms
+[A3] 137/200 id=730 medium BAD att=1 606ms
+[A3] 138/200 id=733 easy   OK  att=1 420ms
+[A3] 139/200 id=734 easy   BAD att=1 574ms
+[A3] 140/200 id=739 medium BAD att=1 552ms
+[A3] 141/200 id=749 extra  BAD att=2 1417ms
+[A3] 142/200 id=758 hard   BAD att=1 783ms
+[A3] 143/200 id=760 extra  BAD att=1 932ms
+[A3] 144/200 id=769 medium BAD att=3 3138ms
+[A3] 145/200 id=771 medium BAD att=3 2980ms
+[A3] 146/200 id=776 extra  OK  att=1 1072ms
+[A3] 147/200 id=777 extra  BAD att=3 3466ms
+[A3] 148/200 id=779 hard   BAD att=2 1712ms
+[A3] 149/200 id=787 hard   OK  att=3 4516ms
+[A3] 150/200 id=789 medium BAD att=1 901ms
+[A3] 151/200 id=791 medium BAD att=3 2899ms
+[A3] 152/200 id=794 extra  BAD att=1 817ms
+[A3] 153/200 id=795 extra  BAD att=3 2967ms
+[A3] 154/200 id=797 medium BAD att=3 4213ms
+[A3] 155/200 id=800 medium BAD att=3 2292ms
+[A3] 156/200 id=805 medium BAD att=1 543ms
+[A3] 157/200 id=821 medium BAD att=3 5066ms
+[A3] 158/200 id=823 easy   OK  att=1 622ms
+[A3] 159/200 id=824 easy   OK  att=1 477ms
+[A3] 160/200 id=829 easy   OK  att=1 448ms
+[A3] 161/200 id=832 medium OK  att=1 1054ms
+[A3] 162/200 id=838 medium OK  att=1 661ms
+[A3] 163/200 id=847 medium OK  att=1 817ms
+[A3] 164/200 id=848 medium OK  att=1 548ms
+[A3] 165/200 id=852 hard   OK  att=1 528ms
+[A3] 166/200 id=854 hard   OK  att=1 713ms
+[A3] 167/200 id=861 medium BAD att=1 686ms
+[A3] 168/200 id=872 easy   OK  att=1 651ms
+[A3] 169/200 id=873 easy   OK  att=1 562ms
+[A3] 170/200 id=875 medium OK  att=1 476ms
+[A3] 171/200 id=877 medium OK  att=1 666ms
+[A3] 172/200 id=878 hard   OK  att=1 515ms
+[A3] 173/200 id=883 medium OK  att=1 521ms
+[A3] 174/200 id=887 extra  OK  att=1 911ms
+[A3] 175/200 id=890 hard   BAD att=1 1109ms
+[A3] 176/200 id=898 hard   BAD att=1 822ms
+[A3] 177/200 id=901 hard   BAD att=1 1207ms
+[A3] 178/200 id=916 extra  BAD att=3 2464ms
+[A3] 179/200 id=918 hard   BAD att=3 5891ms
+[A3] 180/200 id=922 extra  BAD att=3 4675ms
+[A3] 181/200 id=947 medium OK  att=1 1667ms
+[A3] 182/200 id=955 extra  BAD att=3 3356ms
+[A3] 183/200 id=958 medium OK  att=1 702ms
+[A3] 184/200 id=962 medium BAD att=3 4054ms
+[A3] 185/200 id=965 medium OK  att=1 1104ms
+[A3] 186/200 id=966 easy   BAD att=1 416ms
+[A3] 187/200 id=969 easy   OK  att=1 607ms
+[A3] 188/200 id=973 medium BAD att=3 2841ms
+[A3] 189/200 id=979 extra  OK  att=1 1291ms
+[A3] 190/200 id=998 medium BAD att=3 3603ms
+[A3] 191/200 id=1003 easy   OK  att=1 870ms
+[A3] 192/200 id=1006 easy   OK  att=1 489ms
+[A3] 193/200 id=1008 medium OK  att=1 697ms
+[A3] 194/200 id=1013 medium OK  att=1 496ms
+[A3] 195/200 id=1015 hard   OK  att=1 477ms
+[A3] 196/200 id=1018 medium OK  att=1 770ms
+[A3] 197/200 id=1021 medium BAD att=3 1923ms
+[A3] 198/200 id=1024 medium OK  att=1 926ms
+[A3] 199/200 id=1027 hard   OK  att=2 1288ms
+[A3] 200/200 id=1033 hard   OK  att=1 2515ms
+wrote E:\Jassi\portfolio\text2sql-self-correcting-agent\results\A3.jsonl
+# Ablation summary
+
+Generated by `python -m eval.summarize` from `results/<arm>.jsonl`.
+
+| Arm | n | EX % | Wilson 95% CI | easy | medium | hard | extra | mean attempts | tokens in / out | p50 / p95 latency (s) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| A0 | 200 | 60.5 | 53.6-67.0 | 83.3 (n=48) | 62.8 (n=86) | 47.1 (n=34) | 34.4 (n=32) | 1.00 | 747 / 33 | 0.69 / 2.27 |
+| A1 | 200 | 60.5 | 53.6-67.0 | 83.3 (n=48) | 61.6 (n=86) | 47.1 (n=34) | 37.5 (n=32) | 1.00 | 709 / 33 | 0.74 / 2.50 |
+| A2 | 200 | 55.5 | 48.6-62.2 | 81.2 (n=48) | 53.5 (n=86) | 47.1 (n=34) | 31.2 (n=32) | 1.00 | 854 / 31 | 1.40 / 2.89 |
+| A3 | 200 | 60.5 | 53.6-67.0 | 81.2 (n=48) | 57.0 (n=86) | 58.8 (n=34) | 40.6 (n=32) | 1.60 | 1456 / 60 | 0.87 / 4.52 |
+
+## McNemar exact test (paired, same question ids)
+
+| Comparison | fixed (wrong->right) | broken (right->wrong) | p-value |
+|---|---|---|---|
+| A0->A1 | 1 | 1 | 1.0000 |
+| A1->A2 | 15 | 25 | 0.1539 |
+| A2->A3 | 10 | 0 | 0.0020 |
+| A0->A2 | 16 | 26 | 0.1641 |
+| A0->A3 | 23 | 23 | 1.0000 |
+
+## Self-correction (A3)
+
+- First-attempt EX: 55.5% -> final EX: 60.5%
+- First-attempt failures: 89; fixed by retries: 10 (fix rate 11.2%); correct answers broken by a retry: 0
+- Questions that triggered a retry: 65 (first trigger: {'error': 60, 'guard': 0, 'empty': 5})
+
+## Schema linking (A1)
+
+- Mean gold-table recall: 1.000; questions with full recall: 100.0%
+- Questions where linking pruned at least one table: 18.0% (mean tables kept 3.81 of 4.18)

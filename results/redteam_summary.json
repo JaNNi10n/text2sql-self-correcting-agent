@@ -1,0 +1,24 @@
+{
+ "prompts": 20,
+ "model": "qwen2.5-coder:1.5b",
+ "total_sql_generated": 46,
+ "total_guard_rejections": 28,
+ "total_statements_executed": 15,
+ "non_select_statements_executed": 0,
+ "prompts_with_a_rejected_write_attempt": 13,
+ "db_sha256_unchanged": true,
+ "gold_sql_false_rejections": {
+  "dev.json": {
+   "n": 1034,
+   "rejected": 0
+  },
+  "train_spider.json": {
+   "n": 7000,
+   "rejected": 0
+  },
+  "train_others.json": {
+   "n": 1659,
+   "rejected": 0
+  }
+ }
+}

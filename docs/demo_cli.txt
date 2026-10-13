@@ -1,0 +1,75 @@
+$ python -m t2s ask --db spider/database/concert_singer/concert_singer.sqlite "How many singers are there?"
+{
+  "sql": "SELECT count(*) FROM singer",
+  "rows": [
+    [
+      6
+    ]
+  ],
+  "columns": [
+    "count(*)"
+  ],
+  "status": "ok",
+  "attempts": 1,
+  "attempt_sqls": [
+    "SELECT count(*) FROM singer"
+  ],
+  "error_trace": [],
+  "tokens_in": 750,
+  "tokens_out": 11,
+  "latency_ms": 20246.0,
+  "linked_tables": [
+    "concert",
+    "singer",
+    "singer_in_concert",
+    "stadium"
+  ],
+  "shots": [
+    "How many artists are there?",
+    "How many songs have a lead vocal?",
+    "How many songs have a shared vocal?"
+  ]
+}
+
+$ python -m t2s ask --db spider/database/concert_singer/concert_singer.sqlite "Show the name and capacity of the stadium with the most concerts in 2014."
+{
+  "sql": "SELECT T1.name ,  T1.capacity FROM stadium AS T1 JOIN concert AS T2 ON T1.stadium_id  =  T2.stadium_id WHERE T2.year  =  '2014' GROUP BY T2.stadium_id ORDER BY count(*) DESC LIMIT 1",
+  "rows": [
+    [
+      "Somerset Park",
+      11998
+    ]
+  ],
+  "columns": [
+    "Name",
+    "Capacity"
+  ],
+  "status": "ok",
+  "attempts": 2,
+  "attempt_sqls": [
+    "SELECT T1.name ,  T1.capacity FROM stadium AS T1 JOIN concert AS T2 ON T1.id  =  T2.stadium_id WHERE T2.year  =  '2014' GROUP BY T2.stadium_id ORDER BY count(*) DESC LIMIT 1",
+    "SELECT T1.name ,  T1.capacity FROM stadium AS T1 JOIN concert AS T2 ON T1.stadium_id  =  T2.stadium_id WHERE T2.year  =  '2014' GROUP BY T2.stadium_id ORDER BY count(*) DESC LIMIT 1"
+  ],
+  "error_trace": [
+    {
+      "attempt": 1,
+      "sql": "SELECT T1.name ,  T1.capacity FROM stadium AS T1 JOIN concert AS T2 ON T1.id  =  T2.stadium_id WHERE T2.year  =  '2014' GROUP BY T2.stadium_id ORDER BY count(*) DESC LIMIT 1",
+      "error": "SQLite error: no such column: T1.id",
+      "kind": "error"
+    }
+  ],
+  "tokens_in": 1717,
+  "tokens_out": 132,
+  "latency_ms": 20831.0,
+  "linked_tables": [
+    "concert",
+    "singer",
+    "singer_in_concert",
+    "stadium"
+  ],
+  "shots": [
+    "What is the name of the stadium which held the most events?",
+    "Find the name of the stadium that has the maximum capacity.",
+    "Show the name, average attendance, total attendance for stadiums where no accidents happened."
+  ]
+}

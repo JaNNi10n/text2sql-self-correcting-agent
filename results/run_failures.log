@@ -1,0 +1,1 @@
+{"schema hallucination": 41, "wrong join": 11, "wrong aggregation": 6, "value mismatch": 5, "other": 16}

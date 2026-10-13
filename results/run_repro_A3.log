@@ -1,0 +1,22 @@
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+id=1    same_sql=True correct True -> True
+id=22   same_sql=True correct True -> True
+id=24   same_sql=True correct True -> True
+id=26   same_sql=True correct True -> True
+id=39   same_sql=False correct False -> False
+id=40   same_sql=True correct False -> False
+id=44   same_sql=True correct True -> True
+id=51   same_sql=True correct True -> True
+id=55   same_sql=False correct False -> False
+id=56   same_sql=True correct True -> True
+id=57   same_sql=True correct True -> True
+id=64   same_sql=True correct False -> False
+id=70   same_sql=True correct True -> True
+id=72   same_sql=True correct False -> False
+id=73   same_sql=True correct True -> True
+id=77   same_sql=True correct True -> True
+id=87   same_sql=True correct True -> True
+id=90   same_sql=True correct False -> False
+id=94   same_sql=True correct False -> False
+id=97   same_sql=True correct False -> False
+{'arm': 'A3', 'n': 20, 'run_at': '2026-10-13 21:55:32', 'same_sql': 18, 'same_correctness': 20, 'ex_before': 0.6, 'ex_now': 0.6}

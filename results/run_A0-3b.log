@@ -1,0 +1,243 @@
+[A0-3b] 1/200 id=1 easy   OK  att=1 261ms
+[A0-3b] 2/200 id=22 medium OK  att=1 696ms
+[A0-3b] 3/200 id=24 extra  OK  att=1 1312ms
+[A0-3b] 4/200 id=26 hard   OK  att=1 414ms
+[A0-3b] 5/200 id=39 medium BAD att=1 1244ms
+[A0-3b] 6/200 id=40 medium OK  att=1 435ms
+[A0-3b] 7/200 id=44 hard   OK  att=1 733ms
+[A0-3b] 8/200 id=51 medium OK  att=1 1654ms
+[A0-3b] 9/200 id=55 easy   OK  att=1 370ms
+[A0-3b] 10/200 id=56 easy   OK  att=1 333ms
+[A0-3b] 11/200 id=57 extra  BAD att=1 1141ms
+[A0-3b] 12/200 id=64 hard   OK  att=1 1411ms
+[A0-3b] 13/200 id=70 medium OK  att=1 457ms
+[A0-3b] 14/200 id=72 medium BAD att=1 643ms
+[A0-3b] 15/200 id=73 medium BAD att=1 508ms
+[A0-3b] 16/200 id=77 medium OK  att=1 919ms
+[A0-3b] 17/200 id=87 easy   OK  att=1 1281ms
+[A0-3b] 18/200 id=90 medium OK  att=1 965ms
+[A0-3b] 19/200 id=94 medium BAD att=1 1178ms
+[A0-3b] 20/200 id=97 extra  BAD att=1 476ms
+[A0-3b] 21/200 id=100 extra  BAD att=1 894ms
+[A0-3b] 22/200 id=105 hard   OK  att=1 1061ms
+[A0-3b] 23/200 id=107 extra  BAD att=1 606ms
+[A0-3b] 24/200 id=108 extra  OK  att=1 1139ms
+[A0-3b] 25/200 id=110 medium BAD att=1 1350ms
+[A0-3b] 26/200 id=111 medium BAD att=1 1445ms
+[A0-3b] 27/200 id=128 medium BAD att=1 566ms
+[A0-3b] 28/200 id=134 hard   BAD att=1 418ms
+[A0-3b] 29/200 id=141 hard   OK  att=1 542ms
+[A0-3b] 30/200 id=152 extra  BAD att=1 1461ms
+[A0-3b] 31/200 id=153 easy   OK  att=1 618ms
+[A0-3b] 32/200 id=154 easy   OK  att=1 917ms
+[A0-3b] 33/200 id=156 medium OK  att=1 468ms
+[A0-3b] 34/200 id=157 extra  BAD att=1 626ms
+[A0-3b] 35/200 id=178 extra  BAD att=1 1944ms
+[A0-3b] 36/200 id=179 easy   OK  att=1 1442ms
+[A0-3b] 37/200 id=181 easy   OK  att=1 626ms
+[A0-3b] 38/200 id=192 easy   OK  att=1 339ms
+[A0-3b] 39/200 id=196 easy   OK  att=1 505ms
+[A0-3b] 40/200 id=198 medium OK  att=1 3653ms
+[A0-3b] 41/200 id=199 easy   OK  att=1 518ms
+[A0-3b] 42/200 id=210 medium OK  att=1 1996ms
+[A0-3b] 43/200 id=211 hard   OK  att=1 3276ms
+[A0-3b] 44/200 id=221 extra  OK  att=1 2828ms
+[A0-3b] 45/200 id=222 extra  OK  att=1 2979ms
+[A0-3b] 46/200 id=226 extra  BAD att=1 2277ms
+[A0-3b] 47/200 id=231 extra  BAD att=1 3173ms
+[A0-3b] 48/200 id=241 medium BAD att=1 2507ms
+[A0-3b] 49/200 id=249 easy   OK  att=1 436ms
+[A0-3b] 50/200 id=254 medium OK  att=1 2520ms
+[A0-3b] 51/200 id=255 hard   OK  att=1 3090ms
+[A0-3b] 52/200 id=256 hard   OK  att=1 534ms
+[A0-3b] 53/200 id=262 easy   OK  att=1 6171ms
+[A0-3b] 54/200 id=263 medium BAD att=1 526ms
+[A0-3b] 55/200 id=267 medium BAD att=1 2978ms
+[A0-3b] 56/200 id=271 medium OK  att=1 416ms
+[A0-3b] 57/200 id=272 medium OK  att=1 2667ms
+[A0-3b] 58/200 id=274 medium OK  att=1 430ms
+[A0-3b] 59/200 id=289 easy   OK  att=1 2736ms
+[A0-3b] 60/200 id=290 easy   OK  att=1 474ms
+[A0-3b] 61/200 id=292 easy   OK  att=1 339ms
+[A0-3b] 62/200 id=297 easy   OK  att=1 6427ms
+[A0-3b] 63/200 id=302 medium OK  att=1 524ms
+[A0-3b] 64/200 id=312 extra  BAD att=1 3721ms
+[A0-3b] 65/200 id=321 easy   OK  att=1 7500ms
+[A0-3b] 66/200 id=322 easy   OK  att=1 732ms
+[A0-3b] 67/200 id=324 medium OK  att=1 652ms
+[A0-3b] 68/200 id=327 medium OK  att=1 742ms
+[A0-3b] 69/200 id=328 medium OK  att=1 616ms
+[A0-3b] 70/200 id=329 medium OK  att=1 1245ms
+[A0-3b] 71/200 id=332 hard   OK  att=1 590ms
+[A0-3b] 72/200 id=337 medium OK  att=1 3429ms
+[A0-3b] 73/200 id=347 medium OK  att=1 2982ms
+[A0-3b] 74/200 id=353 medium BAD att=1 735ms
+[A0-3b] 75/200 id=366 medium OK  att=1 3026ms
+[A0-3b] 76/200 id=382 easy   OK  att=1 3780ms
+[A0-3b] 77/200 id=385 medium OK  att=1 2466ms
+[A0-3b] 78/200 id=393 medium OK  att=1 3602ms
+[A0-3b] 79/200 id=395 hard   OK  att=1 481ms
+[A0-3b] 80/200 id=396 hard   OK  att=1 3090ms
+[A0-3b] 81/200 id=403 hard   BAD att=1 3709ms
+[A0-3b] 82/200 id=404 hard   OK  att=1 3803ms
+[A0-3b] 83/200 id=405 medium OK  att=1 3525ms
+[A0-3b] 84/200 id=414 medium OK  att=1 7344ms
+[A0-3b] 85/200 id=417 medium BAD att=1 556ms
+[A0-3b] 86/200 id=421 extra  OK  att=1 3847ms
+[A0-3b] 87/200 id=424 medium OK  att=1 3226ms
+[A0-3b] 88/200 id=425 medium OK  att=1 3167ms
+[A0-3b] 89/200 id=434 medium OK  att=1 7519ms
+[A0-3b] 90/200 id=443 easy   OK  att=1 3240ms
+[A0-3b] 91/200 id=444 easy   OK  att=1 565ms
+[A0-3b] 92/200 id=450 medium OK  att=1 3095ms
+[A0-3b] 93/200 id=453 medium OK  att=1 3309ms
+[A0-3b] 94/200 id=469 medium BAD att=1 6196ms
+[A0-3b] 95/200 id=472 medium BAD att=1 3557ms
+[A0-3b] 96/200 id=488 hard   OK  att=1 4686ms
+[A0-3b] 97/200 id=495 easy   OK  att=1 4141ms
+[A0-3b] 98/200 id=505 extra  BAD att=1 3824ms
+[A0-3b] 99/200 id=515 extra  BAD att=1 10089ms
+[A0-3b] 100/200 id=525 medium OK  att=1 3898ms
+[A0-3b] 101/200 id=529 extra  BAD att=1 3356ms
+[A0-3b] 102/200 id=531 medium OK  att=1 3080ms
+[A0-3b] 103/200 id=532 medium OK  att=1 433ms
+[A0-3b] 104/200 id=533 medium OK  att=1 6468ms
+[A0-3b] 105/200 id=539 extra  BAD att=1 3694ms
+[A0-3b] 106/200 id=544 hard   OK  att=1 3434ms
+[A0-3b] 107/200 id=546 easy   OK  att=1 3337ms
+[A0-3b] 108/200 id=573 extra  OK  att=1 3805ms
+[A0-3b] 109/200 id=576 extra  BAD att=1 6089ms
+[A0-3b] 110/200 id=580 easy   BAD att=1 461ms
+[A0-3b] 111/200 id=586 easy   OK  att=1 6242ms
+[A0-3b] 112/200 id=595 hard   OK  att=1 822ms
+[A0-3b] 113/200 id=596 hard   OK  att=1 3157ms
+[A0-3b] 114/200 id=598 medium OK  att=1 3025ms
+[A0-3b] 115/200 id=601 easy   OK  att=1 502ms
+[A0-3b] 116/200 id=602 easy   OK  att=1 2752ms
+[A0-3b] 117/200 id=613 easy   BAD att=1 314ms
+[A0-3b] 118/200 id=630 medium OK  att=1 3638ms
+[A0-3b] 119/200 id=631 medium OK  att=1 718ms
+[A0-3b] 120/200 id=636 hard   BAD att=1 6795ms
+[A0-3b] 121/200 id=648 easy   OK  att=1 15257ms
+[A0-3b] 122/200 id=653 easy   OK  att=1 410ms
+[A0-3b] 123/200 id=655 medium OK  att=1 8233ms
+[A0-3b] 124/200 id=662 medium BAD att=1 741ms
+[A0-3b] 125/200 id=666 hard   BAD att=1 7724ms
+[A0-3b] 126/200 id=667 hard   BAD att=1 7981ms
+[A0-3b] 127/200 id=671 medium BAD att=1 9093ms
+[A0-3b] 128/200 id=678 easy   OK  att=1 692ms
+[A0-3b] 129/200 id=680 medium OK  att=1 9874ms
+[A0-3b] 130/200 id=687 easy   BAD att=1 20677ms
+[A0-3b] 131/200 id=691 easy   OK  att=1 552ms
+[A0-3b] 132/200 id=704 easy   OK  att=1 11600ms
+[A0-3b] 133/200 id=709 easy   BAD att=1 671ms
+[A0-3b] 134/200 id=717 medium BAD att=1 3704ms
+[A0-3b] 135/200 id=718 easy   OK  att=1 366ms
+[A0-3b] 136/200 id=723 medium OK  att=1 3935ms
+[A0-3b] 137/200 id=730 medium OK  att=1 4918ms
+[A0-3b] 138/200 id=733 easy   OK  att=1 364ms
+[A0-3b] 139/200 id=734 easy   OK  att=1 383ms
+[A0-3b] 140/200 id=739 medium OK  att=1 4988ms
+[A0-3b] 141/200 id=749 extra  OK  att=1 9925ms
+[A0-3b] 142/200 id=758 hard   BAD att=1 4244ms
+[A0-3b] 143/200 id=760 extra  BAD att=1 4859ms
+[A0-3b] 144/200 id=769 medium OK  att=1 4935ms
+[A0-3b] 145/200 id=771 medium BAD att=1 3844ms
+[A0-3b] 146/200 id=776 extra  BAD att=1 5225ms
+[A0-3b] 147/200 id=777 extra  BAD att=1 9552ms
+[A0-3b] 148/200 id=779 hard   BAD att=1 394ms
+[A0-3b] 149/200 id=787 hard   BAD att=1 5532ms
+[A0-3b] 150/200 id=789 medium BAD att=1 5557ms
+[A0-3b] 151/200 id=791 medium BAD att=1 5391ms
+[A0-3b] 152/200 id=794 extra  BAD att=1 734ms
+[A0-3b] 153/200 id=795 extra  BAD att=1 5105ms
+[A0-3b] 154/200 id=797 medium BAD att=1 5654ms
+[A0-3b] 155/200 id=800 medium OK  att=1 4891ms
+[A0-3b] 156/200 id=805 medium OK  att=1 353ms
+[A0-3b] 157/200 id=821 medium BAD att=1 5586ms
+[A0-3b] 158/200 id=823 easy   OK  att=1 11582ms
+[A0-3b] 159/200 id=824 easy   OK  att=1 294ms
+[A0-3b] 160/200 id=829 easy   OK  att=1 381ms
+[A0-3b] 161/200 id=832 medium OK  att=1 5360ms
+[A0-3b] 162/200 id=838 medium OK  att=1 456ms
+[A0-3b] 163/200 id=847 medium OK  att=1 5314ms
+[A0-3b] 164/200 id=848 medium OK  att=1 4434ms
+[A0-3b] 165/200 id=852 hard   OK  att=1 456ms
+[A0-3b] 166/200 id=854 hard   OK  att=1 4960ms
+[A0-3b] 167/200 id=861 medium BAD att=1 5377ms
+[A0-3b] 168/200 id=872 easy   OK  att=1 6611ms
+[A0-3b] 169/200 id=873 easy   OK  att=1 6293ms
+[A0-3b] 170/200 id=875 medium OK  att=1 579ms
+[A0-3b] 171/200 id=877 medium OK  att=1 5439ms
+[A0-3b] 172/200 id=878 hard   OK  att=1 513ms
+[A0-3b] 173/200 id=883 medium OK  att=1 4976ms
+[A0-3b] 174/200 id=887 extra  BAD att=1 5138ms
+[A0-3b] 175/200 id=890 hard   BAD att=1 4781ms
+[A0-3b] 176/200 id=898 hard   BAD att=1 5259ms
+[A0-3b] 177/200 id=901 hard   BAD att=1 9157ms
+[A0-3b] 178/200 id=916 extra  BAD att=1 567ms
+[A0-3b] 179/200 id=918 hard   OK  att=1 13842ms
+[A0-3b] 180/200 id=922 extra  OK  att=1 4742ms
+[A0-3b] 181/200 id=947 medium OK  att=1 4826ms
+[A0-3b] 182/200 id=955 extra  BAD att=1 5107ms
+[A0-3b] 183/200 id=958 medium BAD att=1 4712ms
+[A0-3b] 184/200 id=962 medium OK  att=1 4456ms
+[A0-3b] 185/200 id=965 medium OK  att=1 682ms
+[A0-3b] 186/200 id=966 easy   OK  att=1 4567ms
+[A0-3b] 187/200 id=969 easy   OK  att=1 4586ms
+[A0-3b] 188/200 id=973 medium OK  att=1 517ms
+[A0-3b] 189/200 id=979 extra  OK  att=1 4277ms
+[A0-3b] 190/200 id=998 medium BAD att=1 5600ms
+[A0-3b] 191/200 id=1003 easy   OK  att=1 5936ms
+[A0-3b] 192/200 id=1006 easy   OK  att=1 4852ms
+[A0-3b] 193/200 id=1008 medium OK  att=1 668ms
+[A0-3b] 194/200 id=1013 medium OK  att=1 5537ms
+[A0-3b] 195/200 id=1015 hard   OK  att=1 487ms
+[A0-3b] 196/200 id=1018 medium OK  att=1 4816ms
+[A0-3b] 197/200 id=1021 medium OK  att=1 4912ms
+[A0-3b] 198/200 id=1024 medium OK  att=1 5022ms
+[A0-3b] 199/200 id=1027 hard   OK  att=1 569ms
+[A0-3b] 200/200 id=1033 hard   BAD att=1 10995ms
+wrote E:\Jassi\portfolio\text2sql-self-correcting-agent\results\A0-3b.jsonl
+# Ablation summary
+
+Generated by `python -m eval.summarize` from `results/<arm>.jsonl`.
+
+| Arm | n | EX % | Wilson 95% CI | easy | medium | hard | extra | mean attempts | tokens in / out | p50 / p95 latency (s) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| A0 | 200 | 60.5 | 53.6-67.0 | 83.3 (n=48) | 62.8 (n=86) | 47.1 (n=34) | 34.4 (n=32) | 1.00 | 747 / 33 | 0.69 / 2.27 |
+| A1 | 200 | 60.5 | 53.6-67.0 | 83.3 (n=48) | 61.6 (n=86) | 47.1 (n=34) | 37.5 (n=32) | 1.00 | 709 / 33 | 0.74 / 2.50 |
+| A2 | 200 | 55.5 | 48.6-62.2 | 81.2 (n=48) | 53.5 (n=86) | 47.1 (n=34) | 31.2 (n=32) | 1.00 | 854 / 31 | 1.40 / 2.89 |
+| A3 | 200 | 60.5 | 53.6-67.0 | 81.2 (n=48) | 57.0 (n=86) | 58.8 (n=34) | 40.6 (n=32) | 1.60 | 1456 / 60 | 0.87 / 4.52 |
+| A1R | 200 | 63.5 | 56.6-69.9 | 83.3 (n=48) | 65.1 (n=86) | 55.9 (n=34) | 37.5 (n=32) | 1.46 | 1152 / 54 | 0.84 / 3.23 |
+| A0-3b | 200 | 68.0 | 61.2-74.1 | 91.7 (n=48) | 70.9 (n=86) | 64.7 (n=34) | 28.1 (n=32) | 1.00 | 747 / 32 | 3.03 / 9.18 |
+
+## McNemar exact test (paired, same question ids)
+
+| Comparison | fixed (wrong->right) | broken (right->wrong) | p-value |
+|---|---|---|---|
+| A0->A1 | 1 | 1 | 1.0000 |
+| A1->A2 | 15 | 25 | 0.1539 |
+| A2->A3 | 10 | 0 | 0.0020 |
+| A0->A2 | 16 | 26 | 0.1641 |
+| A0->A3 | 23 | 23 | 1.0000 |
+| A1->A1R | 6 | 0 | 0.0312 |
+| A0->A1R | 7 | 1 | 0.0703 |
+| A0->A0-3b | 24 | 9 | 0.0135 |
+
+## Self-correction (A3)
+
+- First-attempt EX: 55.5% -> final EX: 60.5%
+- First-attempt failures: 89; fixed by retries: 10 (fix rate 11.2%); correct answers broken by a retry: 0
+- Questions that triggered a retry: 65 (first trigger: {'error': 60, 'guard': 0, 'empty': 5})
+
+## Self-correction (A1R)
+
+- First-attempt EX: 60.5% -> final EX: 63.5%
+- First-attempt failures: 79; fixed by retries: 6 (fix rate 7.6%); correct answers broken by a retry: 0
+- Questions that triggered a retry: 49 (first trigger: {'error': 39, 'guard': 0, 'empty': 10})
+
+## Schema linking (A1)
+
+- Mean gold-table recall: 1.000; questions with full recall: 100.0%
+- Questions where linking pruned at least one table: 18.0% (mean tables kept 3.81 of 4.18)

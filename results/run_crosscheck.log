@@ -1,0 +1,8 @@
+{
+ "arm": "A3",
+ "n": 50,
+ "agreement": 0.94,
+ "ours_ex": 0.54,
+ "official_ex": 0.56
+}
+disagreements: 3
