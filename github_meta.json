@@ -1,0 +1,10 @@
+{
+  "description": "Self-correcting text-to-SQL agent: local Qwen2.5-Coder 1.5B, sqlglot read-only guard, FastAPI, Spider ablation",
+  "topics": ["text-to-sql", "llm-agents", "ollama", "fastapi", "sqlglot", "spider-benchmark", "sqlite"],
+  "homepage": "",
+  "release": {
+    "tag": "v1.0.0",
+    "title": "v1.0.0 - self-correcting text-to-SQL agent with Spider ablation",
+    "notes": "First release.\n\n- `t2s` agent: schema introspection, bge-small schema linking, cross-database few-shot retrieval, Ollama generation, sqlglot safety guard with a read-only sandboxed executor, and a feedback retry loop (up to 2 retries).\n- CLI (`python -m t2s ask | eval | serve`) and FastAPI service (`POST /query`, `GET /health`).\n- Evaluation on a fixed 200-question Spider 1.0 dev slice (stratified by hardness, seed 42): ablation arms A0-A3 plus A1R and optional 3B arms, Wilson 95% CIs, McNemar tests, retry fix rate, latency and token logging, red-team run, cross-check against the official test-suite evaluator.\n- All numbers in the README come from `results/`, measured on a Windows 10 laptop with an RTX 3050 Ti 4 GB.\n- pytest suite with a mocked LLM and GitHub Actions (ruff + pytest)."
+  }
+}
