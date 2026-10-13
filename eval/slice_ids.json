@@ -1,0 +1,1019 @@
+{
+ "source": "Spider 1.0 dev.json (index = position in file)",
+ "seed": 42,
+ "n": 200,
+ "full_dev_hardness": {
+  "easy": 248,
+  "medium": 446,
+  "hard": 174,
+  "extra": 166
+ },
+ "slice_hardness": {
+  "easy": 48,
+  "medium": 86,
+  "hard": 34,
+  "extra": 32
+ },
+ "items": [
+  {
+   "id": 1,
+   "db_id": "concert_singer",
+   "hardness": "easy"
+  },
+  {
+   "id": 22,
+   "db_id": "concert_singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 24,
+   "db_id": "concert_singer",
+   "hardness": "extra"
+  },
+  {
+   "id": 26,
+   "db_id": "concert_singer",
+   "hardness": "hard"
+  },
+  {
+   "id": 39,
+   "db_id": "concert_singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 40,
+   "db_id": "concert_singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 44,
+   "db_id": "concert_singer",
+   "hardness": "hard"
+  },
+  {
+   "id": 51,
+   "db_id": "pets_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 55,
+   "db_id": "pets_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 56,
+   "db_id": "pets_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 57,
+   "db_id": "pets_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 64,
+   "db_id": "pets_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 70,
+   "db_id": "pets_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 72,
+   "db_id": "pets_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 73,
+   "db_id": "pets_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 77,
+   "db_id": "pets_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 87,
+   "db_id": "car_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 90,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 94,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 97,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 100,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 105,
+   "db_id": "car_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 107,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 108,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 110,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 111,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 128,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 134,
+   "db_id": "car_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 141,
+   "db_id": "car_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 152,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 153,
+   "db_id": "car_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 154,
+   "db_id": "car_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 156,
+   "db_id": "car_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 157,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 178,
+   "db_id": "car_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 179,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 181,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 192,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 196,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 198,
+   "db_id": "flight_2",
+   "hardness": "medium"
+  },
+  {
+   "id": 199,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 210,
+   "db_id": "flight_2",
+   "hardness": "medium"
+  },
+  {
+   "id": 211,
+   "db_id": "flight_2",
+   "hardness": "hard"
+  },
+  {
+   "id": 221,
+   "db_id": "flight_2",
+   "hardness": "extra"
+  },
+  {
+   "id": 222,
+   "db_id": "flight_2",
+   "hardness": "extra"
+  },
+  {
+   "id": 226,
+   "db_id": "flight_2",
+   "hardness": "extra"
+  },
+  {
+   "id": 231,
+   "db_id": "flight_2",
+   "hardness": "extra"
+  },
+  {
+   "id": 241,
+   "db_id": "flight_2",
+   "hardness": "medium"
+  },
+  {
+   "id": 249,
+   "db_id": "flight_2",
+   "hardness": "easy"
+  },
+  {
+   "id": 254,
+   "db_id": "flight_2",
+   "hardness": "medium"
+  },
+  {
+   "id": 255,
+   "db_id": "flight_2",
+   "hardness": "hard"
+  },
+  {
+   "id": 256,
+   "db_id": "flight_2",
+   "hardness": "hard"
+  },
+  {
+   "id": 262,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "easy"
+  },
+  {
+   "id": 263,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "medium"
+  },
+  {
+   "id": 267,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "medium"
+  },
+  {
+   "id": 271,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "medium"
+  },
+  {
+   "id": 272,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "medium"
+  },
+  {
+   "id": 274,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "medium"
+  },
+  {
+   "id": 289,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "easy"
+  },
+  {
+   "id": 290,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "easy"
+  },
+  {
+   "id": 292,
+   "db_id": "employee_hire_evaluation",
+   "hardness": "easy"
+  },
+  {
+   "id": 297,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "easy"
+  },
+  {
+   "id": 302,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 312,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "extra"
+  },
+  {
+   "id": 321,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "easy"
+  },
+  {
+   "id": 322,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "easy"
+  },
+  {
+   "id": 324,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 327,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 328,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 329,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 332,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "hard"
+  },
+  {
+   "id": 337,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 347,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 353,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 366,
+   "db_id": "cre_Doc_Template_Mgt",
+   "hardness": "medium"
+  },
+  {
+   "id": 382,
+   "db_id": "course_teach",
+   "hardness": "easy"
+  },
+  {
+   "id": 385,
+   "db_id": "course_teach",
+   "hardness": "medium"
+  },
+  {
+   "id": 393,
+   "db_id": "course_teach",
+   "hardness": "medium"
+  },
+  {
+   "id": 395,
+   "db_id": "course_teach",
+   "hardness": "hard"
+  },
+  {
+   "id": 396,
+   "db_id": "course_teach",
+   "hardness": "hard"
+  },
+  {
+   "id": 403,
+   "db_id": "course_teach",
+   "hardness": "hard"
+  },
+  {
+   "id": 404,
+   "db_id": "course_teach",
+   "hardness": "hard"
+  },
+  {
+   "id": 405,
+   "db_id": "course_teach",
+   "hardness": "medium"
+  },
+  {
+   "id": 414,
+   "db_id": "museum_visit",
+   "hardness": "medium"
+  },
+  {
+   "id": 417,
+   "db_id": "museum_visit",
+   "hardness": "medium"
+  },
+  {
+   "id": 421,
+   "db_id": "museum_visit",
+   "hardness": "extra"
+  },
+  {
+   "id": 424,
+   "db_id": "museum_visit",
+   "hardness": "medium"
+  },
+  {
+   "id": 425,
+   "db_id": "museum_visit",
+   "hardness": "medium"
+  },
+  {
+   "id": 434,
+   "db_id": "wta_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 443,
+   "db_id": "wta_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 444,
+   "db_id": "wta_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 450,
+   "db_id": "wta_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 453,
+   "db_id": "wta_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 469,
+   "db_id": "wta_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 472,
+   "db_id": "wta_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 488,
+   "db_id": "wta_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 495,
+   "db_id": "battle_death",
+   "hardness": "easy"
+  },
+  {
+   "id": 505,
+   "db_id": "battle_death",
+   "hardness": "extra"
+  },
+  {
+   "id": 515,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "extra"
+  },
+  {
+   "id": 525,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "medium"
+  },
+  {
+   "id": 529,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "extra"
+  },
+  {
+   "id": 531,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "medium"
+  },
+  {
+   "id": 532,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "medium"
+  },
+  {
+   "id": 533,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "medium"
+  },
+  {
+   "id": 539,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "extra"
+  },
+  {
+   "id": 544,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "hard"
+  },
+  {
+   "id": 546,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "easy"
+  },
+  {
+   "id": 573,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "extra"
+  },
+  {
+   "id": 576,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "extra"
+  },
+  {
+   "id": 580,
+   "db_id": "student_transcripts_tracking",
+   "hardness": "easy"
+  },
+  {
+   "id": 586,
+   "db_id": "tvshow",
+   "hardness": "easy"
+  },
+  {
+   "id": 595,
+   "db_id": "tvshow",
+   "hardness": "hard"
+  },
+  {
+   "id": 596,
+   "db_id": "tvshow",
+   "hardness": "hard"
+  },
+  {
+   "id": 598,
+   "db_id": "tvshow",
+   "hardness": "medium"
+  },
+  {
+   "id": 601,
+   "db_id": "tvshow",
+   "hardness": "easy"
+  },
+  {
+   "id": 602,
+   "db_id": "tvshow",
+   "hardness": "easy"
+  },
+  {
+   "id": 613,
+   "db_id": "tvshow",
+   "hardness": "easy"
+  },
+  {
+   "id": 630,
+   "db_id": "tvshow",
+   "hardness": "medium"
+  },
+  {
+   "id": 631,
+   "db_id": "tvshow",
+   "hardness": "medium"
+  },
+  {
+   "id": 636,
+   "db_id": "tvshow",
+   "hardness": "hard"
+  },
+  {
+   "id": 648,
+   "db_id": "poker_player",
+   "hardness": "easy"
+  },
+  {
+   "id": 653,
+   "db_id": "poker_player",
+   "hardness": "easy"
+  },
+  {
+   "id": 655,
+   "db_id": "poker_player",
+   "hardness": "medium"
+  },
+  {
+   "id": 662,
+   "db_id": "poker_player",
+   "hardness": "medium"
+  },
+  {
+   "id": 666,
+   "db_id": "poker_player",
+   "hardness": "hard"
+  },
+  {
+   "id": 667,
+   "db_id": "poker_player",
+   "hardness": "hard"
+  },
+  {
+   "id": 671,
+   "db_id": "poker_player",
+   "hardness": "medium"
+  },
+  {
+   "id": 678,
+   "db_id": "poker_player",
+   "hardness": "easy"
+  },
+  {
+   "id": 680,
+   "db_id": "poker_player",
+   "hardness": "medium"
+  },
+  {
+   "id": 687,
+   "db_id": "voter_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 691,
+   "db_id": "voter_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 704,
+   "db_id": "world_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 709,
+   "db_id": "world_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 717,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 718,
+   "db_id": "world_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 723,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 730,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 733,
+   "db_id": "world_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 734,
+   "db_id": "world_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 739,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 749,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 758,
+   "db_id": "world_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 760,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 769,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 771,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 776,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 777,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 779,
+   "db_id": "world_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 787,
+   "db_id": "world_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 789,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 791,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 794,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 795,
+   "db_id": "world_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 797,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 800,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 805,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 821,
+   "db_id": "world_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 823,
+   "db_id": "orchestra",
+   "hardness": "easy"
+  },
+  {
+   "id": 824,
+   "db_id": "orchestra",
+   "hardness": "easy"
+  },
+  {
+   "id": 829,
+   "db_id": "orchestra",
+   "hardness": "easy"
+  },
+  {
+   "id": 832,
+   "db_id": "orchestra",
+   "hardness": "medium"
+  },
+  {
+   "id": 838,
+   "db_id": "orchestra",
+   "hardness": "medium"
+  },
+  {
+   "id": 847,
+   "db_id": "orchestra",
+   "hardness": "medium"
+  },
+  {
+   "id": 848,
+   "db_id": "orchestra",
+   "hardness": "medium"
+  },
+  {
+   "id": 852,
+   "db_id": "orchestra",
+   "hardness": "hard"
+  },
+  {
+   "id": 854,
+   "db_id": "orchestra",
+   "hardness": "hard"
+  },
+  {
+   "id": 861,
+   "db_id": "orchestra",
+   "hardness": "medium"
+  },
+  {
+   "id": 872,
+   "db_id": "network_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 873,
+   "db_id": "network_1",
+   "hardness": "easy"
+  },
+  {
+   "id": 875,
+   "db_id": "network_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 877,
+   "db_id": "network_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 878,
+   "db_id": "network_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 883,
+   "db_id": "network_1",
+   "hardness": "medium"
+  },
+  {
+   "id": 887,
+   "db_id": "network_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 890,
+   "db_id": "network_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 898,
+   "db_id": "network_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 901,
+   "db_id": "network_1",
+   "hardness": "hard"
+  },
+  {
+   "id": 916,
+   "db_id": "network_1",
+   "hardness": "extra"
+  },
+  {
+   "id": 918,
+   "db_id": "dog_kennels",
+   "hardness": "hard"
+  },
+  {
+   "id": 922,
+   "db_id": "dog_kennels",
+   "hardness": "extra"
+  },
+  {
+   "id": 947,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 955,
+   "db_id": "dog_kennels",
+   "hardness": "extra"
+  },
+  {
+   "id": 958,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 962,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 965,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 966,
+   "db_id": "dog_kennels",
+   "hardness": "easy"
+  },
+  {
+   "id": 969,
+   "db_id": "dog_kennels",
+   "hardness": "easy"
+  },
+  {
+   "id": 973,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 979,
+   "db_id": "dog_kennels",
+   "hardness": "extra"
+  },
+  {
+   "id": 998,
+   "db_id": "dog_kennels",
+   "hardness": "medium"
+  },
+  {
+   "id": 1003,
+   "db_id": "singer",
+   "hardness": "easy"
+  },
+  {
+   "id": 1006,
+   "db_id": "singer",
+   "hardness": "easy"
+  },
+  {
+   "id": 1008,
+   "db_id": "singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 1013,
+   "db_id": "singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 1015,
+   "db_id": "singer",
+   "hardness": "hard"
+  },
+  {
+   "id": 1018,
+   "db_id": "singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 1021,
+   "db_id": "singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 1024,
+   "db_id": "singer",
+   "hardness": "medium"
+  },
+  {
+   "id": 1027,
+   "db_id": "singer",
+   "hardness": "hard"
+  },
+  {
+   "id": 1033,
+   "db_id": "real_estate_properties",
+   "hardness": "hard"
+  }
+ ]
+}
