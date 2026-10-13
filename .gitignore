@@ -1,0 +1,19 @@
+# environments / caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.cache/
+
+# Spider data and third-party eval scripts are downloaded by scripts/download_spider.py
+spider/
+spider_data.zip
+_spider_extract/
+third_party/
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

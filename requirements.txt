@@ -1,0 +1,21 @@
+# Pinned versions used for every result in results/ (Python 3.12.10, Windows 10).
+# torch: the GPU build used locally is 2.3.1+cu118, installed with
+#   pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cu118
+# CI installs the CPU wheel of the same version.
+torch==2.3.1
+numpy==1.26.4
+scipy==1.17.1
+pandas==3.0.6
+sentence-transformers==5.7.0
+transformers==4.45.2
+sqlglot==30.22.0
+httpx==0.28.1
+fastapi==0.143.0
+pydantic==2.14.1
+uvicorn==0.54.0
+# dataset download + official Spider evaluation scripts
+gdown==6.4.2
+nltk==3.9.1
+# dev
+pytest==9.1.1
+ruff==0.17.0
