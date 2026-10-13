@@ -3,6 +3,18 @@
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [Unreleased]
+
+### Added
+- `eval/error_sources.py` (`results/error_sources.json`): exact-match checks for identifiers copied
+  from few-shot examples (A2) and identifiers repeated after retries (A3).
+- `eval/compare_runs.py` and `results/rerun/`: a full independent rerun of A0 and A3 on the
+  200-question slice (61.0% and 59.0% EX against 60.5% and 60.5% in the saved runs).
+
+### Fixed
+- README: claims about few-shot copying, clean first-attempt failures (28, not 24), tables per
+  database and full-dev runtime corrected to match the saved results.
+
 ## [1.0.0] - 2026-10-13
 
 ### Added

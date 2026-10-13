@@ -1,0 +1,6 @@
+{
+ "A2_no_such_errors": 59,
+ "A2_missing_identifier_in_example_sql": 20,
+ "A3_retried_no_such_still_failing_no_such": 41,
+ "A3_same_missing_identifier_after_retries": 30
+}

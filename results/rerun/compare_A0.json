@@ -1,0 +1,12 @@
+{
+ "before": "results/A0.jsonl",
+ "after": "results/rerun/A0.jsonl",
+ "n": 200,
+ "ex_before": 60.5,
+ "ex_after": 61.0,
+ "same_final_sql": 176,
+ "same_correctness": 195,
+ "wrong_to_right": 3,
+ "right_to_wrong": 2,
+ "mcnemar_p": 1.0
+}
